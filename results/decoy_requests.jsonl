@@ -1,0 +1,170 @@
+{"accept": "*/*", "method": "GET", "path": "/", "ts": 1793375154.100308, "ua": "curl/8.23.0"}
+{"accept": "*/*", "method": "GET", "path": "/robots.txt", "ts": 1793375154.1049864, "ua": "curl/8.23.0"}
+{"accept": "*/*", "method": "GET", "path": "/robots.txt", "ts": 1793375161.246831, "ua": "curl/8.23.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375169.9397044, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375170.1410942, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375170.3428183, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375170.3437257, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375170.3447034, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375170.344793, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375170.5456755, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375170.5461614, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375170.5465224, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375170.546567, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375170.7474072, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375170.7479565, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375170.7483027, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375170.7485838, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375170.7486246, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375170.7488766, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375170.9493117, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375170.9496312, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375170.9499557, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375170.9502919, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375170.9503388, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375170.950642, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375171.6934226, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375171.7025945, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375171.7060087, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375171.706961, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375172.7815967, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375172.7967532, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375172.8168988, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375172.8169584, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375173.476518, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375173.485083, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375173.4881387, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375173.4955668, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375174.5654073, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375174.5762563, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375174.5848927, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375174.5849404, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375187.7689252, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375187.9697282, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375188.1706116, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375188.371392, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375188.3717566, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375188.372122, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375188.3721678, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375188.5728247, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375188.5732937, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375188.5738134, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375188.5738885, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375188.774691, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375188.7751694, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375188.7755594, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375188.7756162, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375188.9763005, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375188.9770973, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375188.9779384, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375188.9786432, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375188.9787474, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375188.9791481, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375189.1799617, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375189.1803448, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375189.1806705, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375189.1809695, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375189.1810138, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375189.1812596, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375189.3817935, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375189.3821201, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375189.3824015, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375189.3826673, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375189.382707, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375189.3829474, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375190.081488, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375190.1037965, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375190.1116965, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375190.1228333, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375191.1991937, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375191.211503, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375191.2189496, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375191.219015, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375191.8471808, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375191.8571537, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375191.8592882, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375191.8657315, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375192.9350286, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375192.9447672, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375192.951176, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375192.9512265, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375193.5572677, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375193.5675998, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375193.570069, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375193.5737724, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375194.6461987, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375194.660523, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375194.6696525, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375194.6697152, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375194.9312015, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375217.796219, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375217.997029, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375237.2209315, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375237.4217908, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375255.6542325, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375289.4886656, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375289.689648, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375289.8904977, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375290.091182, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375290.0915627, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375290.091988, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375290.092036, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375290.292621, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375290.2930217, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375290.2933304, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375290.2933636, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/robots.txt", "ts": 1793375290.4941385, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375290.4945574, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375290.4948478, "ua": "curl/8.5.0"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/hidden/8ac92a0d", "ts": 1793375290.4948883, "ua": "curl/8.5.0"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375290.6953754, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375290.6957662, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375290.696089, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375290.6964228, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375290.696468, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375290.696745, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375290.8971822, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375290.8974984, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375290.897787, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375290.8980558, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375290.8980954, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375290.898335, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375291.0988371, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375291.0991635, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375291.0994773, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375291.0997398, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375291.0997796, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375291.1000173, "ua": "research-agent/0.1 (+contact: local-lab)"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375291.7123115, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375291.7208755, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375291.7284644, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375291.7298803, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375292.8044295, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375292.8162186, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375292.8250093, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375292.825069, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375293.4472635, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375293.4579859, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375293.459936, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375293.463721, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375294.539374, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375294.5541098, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375294.5612795, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375294.5613317, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/", "ts": 1793375295.1980069, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "*/*", "method": "GET", "path": "/static/app.js", "ts": 1793375295.2070909, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"method": "POST", "path": "/api/beacon", "ts": 1793375295.208474, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "image/jxl,image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "method": "GET", "path": "/favicon.ico", "ts": 1793375295.211667, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/about", "ts": 1793375296.2809052, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/docs", "ts": 1793375296.2935097, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/jxl,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375296.3050098, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375296.305123, "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375324.1492803, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375348.8010404, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375348.8011053, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375407.4103541, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/", "ts": 1793375704.6213012, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375726.7460382, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"canary": "8ac92a0d", "method": "GET", "path": "/c/8ac92a0d", "ts": 1793375726.7461052, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/docs", "ts": 1793375743.7221339, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}
+{"accept": "", "method": "GET", "path": "/about", "ts": 1793375778.6490057, "ua": "research-agent-llm/0.1 (+contact: local-lab)"}

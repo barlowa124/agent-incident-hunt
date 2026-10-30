@@ -1,0 +1,256 @@
+{
+  "detail": [
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": false,
+          "depth": 1,
+          "robots": false,
+          "ua": "curl/8.5.0"
+        },
+        "reason": "robots.txt fetch or bot UA"
+      },
+      "label": "bot_probe"
+    },
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": false,
+          "depth": 1,
+          "robots": false,
+          "ua": "curl/8.5.0"
+        },
+        "reason": "robots.txt fetch or bot UA"
+      },
+      "label": "bot_probe"
+    },
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": false,
+          "depth": 1,
+          "robots": false,
+          "ua": "curl/8.5.0"
+        },
+        "reason": "robots.txt fetch or bot UA"
+      },
+      "label": "bot_probe"
+    },
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 3,
+          "robots": true,
+          "ua": "curl/8.5.0"
+        },
+        "reason": "canary path via robots.txt, bot UA"
+      },
+      "label": "bot_curl"
+    },
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 3,
+          "robots": true,
+          "ua": "curl/8.5.0"
+        },
+        "reason": "canary path via robots.txt, bot UA"
+      },
+      "label": "bot_curl"
+    },
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 3,
+          "robots": true,
+          "ua": "curl/8.5.0"
+        },
+        "reason": "canary path via robots.txt, bot UA"
+      },
+      "label": "bot_curl"
+    },
+    {
+      "classified": {
+        "class": "agent",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 4,
+          "robots": false,
+          "ua": "research-agent/0.1 (+contact: local-lab)"
+        },
+        "reason": "hidden link followed without JS execution"
+      },
+      "label": "agent_scripted"
+    },
+    {
+      "classified": {
+        "class": "agent",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 4,
+          "robots": false,
+          "ua": "research-agent/0.1 (+contact: local-lab)"
+        },
+        "reason": "hidden link followed without JS execution"
+      },
+      "label": "agent_scripted"
+    },
+    {
+      "classified": {
+        "class": "agent",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 4,
+          "robots": false,
+          "ua": "research-agent/0.1 (+contact: local-lab)"
+        },
+        "reason": "hidden link followed without JS execution"
+      },
+      "label": "agent_scripted"
+    },
+    {
+      "classified": {
+        "class": "browser",
+        "features": {
+          "assets": true,
+          "beacon": true,
+          "canary": true,
+          "depth": 7,
+          "robots": false,
+          "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"
+        },
+        "reason": "POST /api/beacon means the JS ran"
+      },
+      "label": "browser"
+    },
+    {
+      "classified": {
+        "class": "browser",
+        "features": {
+          "assets": true,
+          "beacon": true,
+          "canary": true,
+          "depth": 7,
+          "robots": false,
+          "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"
+        },
+        "reason": "POST /api/beacon means the JS ran"
+      },
+      "label": "browser"
+    },
+    {
+      "classified": {
+        "class": "browser",
+        "features": {
+          "assets": true,
+          "beacon": true,
+          "canary": true,
+          "depth": 7,
+          "robots": false,
+          "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36"
+        },
+        "reason": "POST /api/beacon means the JS ran"
+      },
+      "label": "browser"
+    },
+    {
+      "classified": {
+        "class": "agent",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 3,
+          "robots": false,
+          "ua": "research-agent-llm/0.1 (+contact: local-lab)"
+        },
+        "reason": "hidden link followed without JS execution"
+      },
+      "label": "agent_llm"
+    },
+    {
+      "classified": {
+        "class": "bot",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": false,
+          "depth": 0,
+          "robots": false,
+          "ua": ""
+        },
+        "reason": "single probe, no link following"
+      },
+      "label": "agent_llm"
+    },
+    {
+      "classified": {
+        "class": "agent",
+        "features": {
+          "assets": false,
+          "beacon": false,
+          "canary": true,
+          "depth": 4,
+          "robots": false,
+          "ua": "research-agent-llm/0.1 (+contact: local-lab)"
+        },
+        "reason": "hidden link followed without JS execution"
+      },
+      "label": "agent_llm"
+    }
+  ],
+  "matrix": {
+    "agent_llm": {
+      "agent": 2,
+      "bot": 1,
+      "browser": 0
+    },
+    "agent_scripted": {
+      "agent": 3,
+      "bot": 0,
+      "browser": 0
+    },
+    "bot_curl": {
+      "agent": 0,
+      "bot": 3,
+      "browser": 0
+    },
+    "bot_probe": {
+      "agent": 0,
+      "bot": 3,
+      "browser": 0
+    },
+    "browser": {
+      "agent": 0,
+      "bot": 0,
+      "browser": 3
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "archive_url": null,
+  "bytes": 21273,
+  "retrieved_at": "2026-10-30T15:44:11Z",
+  "sha256": "e502b6824fcbdb418b2b60000b7b1a5744aa2980b92972db80af0e71c955d03e",
+  "source": "hn",
+  "url": "https://hn.algolia.com/api/v1/search?query=alignment.openai.com&tags=story&hitsPerPage=25"
+}

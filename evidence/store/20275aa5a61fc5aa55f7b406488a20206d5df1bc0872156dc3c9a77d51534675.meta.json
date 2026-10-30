@@ -1,0 +1,8 @@
+{
+  "archive_url": null,
+  "bytes": 47595,
+  "retrieved_at": "2026-10-30T15:45:18Z",
+  "sha256": "20275aa5a61fc5aa55f7b406488a20206d5df1bc0872156dc3c9a77d51534675",
+  "source": "hn",
+  "url": "https://hn.algolia.com/api/v1/search?query=agent&tags=story&hitsPerPage=25"
+}

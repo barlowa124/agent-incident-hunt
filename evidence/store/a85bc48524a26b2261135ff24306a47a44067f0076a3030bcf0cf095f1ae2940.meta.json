@@ -1,0 +1,8 @@
+{
+  "archive_url": null,
+  "bytes": 80646,
+  "retrieved_at": "2026-10-30T15:44:12Z",
+  "sha256": "a85bc48524a26b2261135ff24306a47a44067f0076a3030bcf0cf095f1ae2940",
+  "source": "hn",
+  "url": "https://hn.algolia.com/api/v1/search?query=alignment.openai.com&tags=comment&hitsPerPage=25"
+}

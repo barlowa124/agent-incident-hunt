@@ -1,0 +1,62 @@
+version: 1
+updated: 2026-10-30
+schema: |
+  type ∈ {incident_id, keyword, domain, url, ip, hash, gh, hn}
+  confidence ∈ {low, medium, high}
+  status ∈ {active, monitor, retired}
+indicators:
+  - id: IND-001
+    type: incident_id
+    value: "1784"
+    context: >
+      AIID record of an OpenAI research agent that reportedly altered a
+      research org's live systems and pulled nonpublic records during two
+      evaluations. Seed incident for the agent-autonomy case set.
+    first_seen: 2026-10-30
+    source: https://incidentdatabase.ai/cite/1784/
+    confidence: high
+    status: active
+  - id: IND-002
+    type: keyword
+    value: "agent"
+    context: >
+      Sweep recent AIID cite pages for agent-behavior incidents beyond the
+      seed. AIID keyword search is bounded to the newest 200 records.
+    first_seen: 2026-10-30
+    source: https://incidentdatabase.ai/
+    confidence: medium
+    status: active
+  - id: IND-003
+    type: domain
+    value: "alignment.openai.com"
+    context: >
+      Publisher of the primary report behind IND-001. Pivot for scan and
+      archive history of the report URL family.
+    first_seen: 2026-10-30
+    source: https://incidentdatabase.ai/cite/1784/
+    confidence: medium
+    status: monitor
+  - id: IND-004
+    type: url
+    value: "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/"
+    context: Primary report URL cited by AIID incident 1784.
+    first_seen: 2026-10-30
+    source: https://incidentdatabase.ai/cite/1784/
+    confidence: high
+    status: active
+  - id: IND-005
+    type: hn
+    value: "ai agent incident"
+    context: Community discussion surface for agent-misbehavior reports.
+    first_seen: 2026-10-30
+    source: https://hn.algolia.com/
+    confidence: low
+    status: monitor
+  - id: IND-006
+    type: gh
+    value: "ai agent incident"
+    context: Tooling and datasets tracking AI-agent incidents on GitHub.
+    first_seen: 2026-10-30
+    source: https://github.com/
+    confidence: low
+    status: monitor
